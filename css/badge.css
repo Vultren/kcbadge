@@ -1,0 +1,21 @@
+body {
+
+}
+
+.ui-tabs .ui-tabs-nav {
+  display: -webkit-box;
+  display: -moz-box; 
+  display: box; 
+}
+
+
+.ui-tabs .ui-tabs-nav li {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+}
+
+.ui-tabs .ui-tabs-nav li a {
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0; 
+}
